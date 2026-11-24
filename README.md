@@ -82,6 +82,14 @@ Si su empresa requiere consultoría para el despliegue seguro de agentes en What
 
 ***
 
+## Enlaces Útiles
+
+* **Portal Corporativo:** https://ag.tavardt.com/mx/
+* **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
+* **Contacto Técnico:** https://ag.tavardt.com/mx/contacto/
+
+***
+
 ## Licencia
 
 Distribuido bajo licencia de código abierto MIT. Consulte el archivo [`LICENSE`](LICENSE) para más detalles.  
