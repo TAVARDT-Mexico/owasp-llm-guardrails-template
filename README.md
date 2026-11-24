@@ -45,7 +45,7 @@ Antes de poner agentes inteligentes en interacción directa con usuarios o clien
 ### Clonar y Ejecución
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/owasp-llm-guardrails-template.git
+git clone https://github.com/TAVARDT/owasp-llm-guardrails-template.git
 cd owasp-llm-guardrails-template
 python examples/quickstart.py
 ```
