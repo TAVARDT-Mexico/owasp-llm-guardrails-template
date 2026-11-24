@@ -7,9 +7,9 @@
 
 Blueprint declarativo y middleware de código abierto para la mitigación de Prompt Injection (OWASP LLM01), fuga de system prompt y manipulación adversarial en agentes de IA, en cumplimiento con la LFPDPPP y recomendaciones del INAI para sistemas inteligentes.
 
-Desarrollado y mantenido por el equipo de ingeniería de inteligencia artificial de **[TAVARDT México](https://ag.tavardt.com/mx/super-intelligence/)**.
+Desarrollado y mantenido por el equipo de ingeniería de inteligencia artificial de **TAVARDT México**.
 
----
+***
 
 ## 1. Arquitectura de Seguridad para IA y Agentes Cognitivos
 
@@ -18,27 +18,27 @@ Este repositorio proporciona una librería modular sin dependencias pesadas para
 ### Blindaje Perimetral en la Capa de IA
 Los LLMs procesan las directrices de control y los datos de entrada en un mismo flujo contextual. Sin guardrails activos, las soluciones de inteligencia artificial corporativas se exponen a ataques de suplantación de identidad de agente y fuga de secretos comerciales.
 
----
+***
 
 ## 2. Vectores de Amenaza Mitigados (OWASP Top 10 for LLMs)
 
 | Capa de Defensa | Vector de Amenaza Mitigado | Mecanismo de Mitigación |
-| :--- | :--- | :--- |
+| :- | :- | :- |
 | **Input Sanitizer** | Inyección Directa de Prompt (Jailbreak) | Detección heurística de comandos de escape (`ignora las instrucciones anteriores`, cambios de rol no autorizados). |
 | **Canary Token Verifier** | Fuga de Prompt de Sistema | Supervisión continua de tokens canario en las respuestas para evitar la revelación de prompts confidenciales. |
 | **RAG Boundary Guard** | Inyección Indirecta en Bases RAG | Aislamiento y sanitización de fragmentos documentales recuperados de bases vectoriales. |
 | **Structured Output Filter** | Disparo No Autorizado de Acciones | Verificación rigurosa de esquemas JSON antes de disparar acciones en APIs o herramientas MCP. |
 
----
+***
 
 ## 3. Diagnóstico Previo de Robustez de su Modelo
 
 Antes de poner agentes inteligentes en interacción directa con usuarios o clientes, evalúe su vulnerabilidad con la herramienta de diagnóstico de TAVARDT:
 
-* **Evaluación de Robustez:** [Evaluador de Robustez de LLMs TAVARDT México](https://tools.tavardt.com/mx/evaluador-robustez-llm/)
-* **Suite Completa de Diagnósticos:** [TAVARDT Tools México](https://tools.tavardt.com/mx/)
+* **Evaluación de Robustez:** Evaluador de Robustez de LLMs TAVARDT México
+* **Suite Completa de Diagnósticos:** **TAVARDT Tools México**
 
----
+***
 
 ## 4. Instalación y Guía de Implementación Rápida
 
@@ -71,16 +71,16 @@ if not is_valid:
     raise SecurityError("Fallo crítico: ¡Fuga de system prompt detectada mediante token canario!")
 ```
 
----
+***
 
 ## 5. Consultoría Especializada en Agentes de IA y Ciberseguridad
 
 Si su empresa requiere consultoría para el despliegue seguro de agentes en WhatsApp o auditorías de sistemas generativos:
 
-* **Portal Corporativo:** [TAVARDT México](https://ag.tavardt.com/mx/super-intelligence/)
+* **Portal Corporativo:** **TAVARDT México**
 * **Contacto Técnico Directo:** [Atención Técnica Especializada](https://ag.tavardt.com/mx/contacto/)
 
----
+***
 
 ## Licencia
 
