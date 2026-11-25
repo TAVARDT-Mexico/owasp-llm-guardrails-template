@@ -90,10 +90,9 @@ Si su empresa requiere consultoría para el despliegue seguro de agentes en What
 
 ***
 
-## Licencia
+### Licencia
 
-Distribuido bajo licencia de código abierto MIT. Consulte el archivo [`LICENSE`](LICENSE) para más detalles.  
-Copyright
+Distribuido bajo licencia de código abierto MIT. Consulte el archivo [`LICENSE`](LICENSE) para más detalles.
 
 ***
 
