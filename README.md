@@ -1,13 +1,10 @@
 # OWASP LLM01 Guardrails Template y Guía de Seguridad de IA
 
-[![Licence MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![OWASP LLM01](https://img.shields.io/badge/OWASP-LLM01%20Hardened-ff0055.svg)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-[![Language](https://img.shields.io/badge/Language-Español%20(México)-green.svg)](README.md)
 [![AI Diagnostics](https://img.shields.io/badge/TAVARDT-AI%20Evaluator-5b3cf5.svg)](https://tools.tavardt.com/mx/evaluador-robustez-llm/)
+[![Licence MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Blueprint declarativo y middleware de código abierto para la mitigación de Prompt Injection (OWASP LLM01), fuga de system prompt y manipulación adversarial en agentes de IA, en cumplimiento con la LFPDPPP y recomendaciones del INAI para sistemas inteligentes.
-
-Desarrollado y mantenido por el equipo de ingeniería de inteligencia artificial de **TAVARDT**.
 
 ***
 
@@ -73,16 +70,7 @@ if not is_valid:
 
 ***
 
-## 5. Consultoría Especializada en Agentes de IA y Ciberseguridad
-
-Si su empresa requiere consultoría para el despliegue seguro de agentes en WhatsApp o auditorías de sistemas generativos:
-
-* **Portal Corporativo:** **TAVARDT**
-* **Contacto Técnico Directo:** [Atención Técnica Especializada](https://ag.tavardt.com/mx/contacto/)
-
-***
-
-## Enlaces Útiles
+## 5. Enlaces Útiles
 
 * **Portal Corporativo:** https://ag.tavardt.com/mx/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
@@ -92,7 +80,7 @@ Si su empresa requiere consultoría para el despliegue seguro de agentes en What
 
 ### Licencia
 
-Distribuido bajo licencia de código abierto MIT. Consulte el archivo [`LICENSE`](LICENSE) para más detalles.
+Distribuido bajo licencia de código abierto MIT.
 
 ***
 
